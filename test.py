@@ -1,5 +1,5 @@
 def add(x, y):
-    """"plus"""
+    """"add"""
    return x + y
 
 def ubtract(x, y):
