@@ -11,7 +11,7 @@ def multiply(x, y):
    return x * y
 
 def divide(x, y):
-
+    """"Multiply"""
    return x / y
 
 print("Select operation.")
