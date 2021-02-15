@@ -7,7 +7,7 @@ def ubtract(x, y):
    return x - y
 
 def multiply(x, y):
-    """"ubtract"""
+    """"Multiply"""
    return x * y
 
 def divide(x, y):
