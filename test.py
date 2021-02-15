@@ -3,7 +3,7 @@ def add(x, y):
    return x + y
 
 def ubtract(x, y):
-    """"ubtract"""
+    """"Subtract"""
    return x - y
 
 def multiply(x, y):
